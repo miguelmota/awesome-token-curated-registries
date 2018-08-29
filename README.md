@@ -73,7 +73,7 @@
 - [TCRs for Research(er) Funding](https://medium.com/open-science-network/tcrs-for-research-er-funding-afdc67fd167e)
 - [Token Curated Registries in Butterfly Economy](https://medium.com/unframework/token-curated-registries-in-butterfly-economy-583b114a25c8)
 - [An Analysis of Token Curated Registries](https://medium.com/coinmonks/an-analysis-on-token-curated-registries-455183a069e3)
-- [Graded Token-Curated Decisions with Up-/Downvoting — Designing Cryptoeconomic Ranking and Reputation Systems](https://medium.com/coinmonks/graded-token-curated-decisions-with-up-downvoting-designing-cryptoeconomic-ranking-and-2ce7c000bb51)
+- [Graded Token-Curated Decisions with Up-/Downvoting](https://medium.com/coinmonks/graded-token-curated-decisions-with-up-downvoting-designing-cryptoeconomic-ranking-and-2ce7c000bb51)
 
 ## Social Media
 
