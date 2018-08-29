@@ -12,6 +12,7 @@
 - [Curation Markets](#curation-markets)
 - [Articles](#articles)
 - [Contributing](#contributing)
+- [Miscellaneous](#miscellaneous)
 - [Social Media](#social-media)
 - [License](#license)
 
@@ -97,7 +98,7 @@
 - [Sponsored Burning for TCR](https://medium.com/@avsa/sponsored-burning-for-tcr-c0ab08eef9d4?ref=tokendaily)
 - [Curated Governance with Stake Machines](https://medium.com/@DimitriDeJonghe/curated-governance-with-stake-machines-8ae290a709b4)
 
-## Misc
+## Miscellaneous
 
 - [Kernel Governance: TCR research](https://github.com/zeppelinos/labs/issues/36)
 
