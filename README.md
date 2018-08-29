@@ -105,7 +105,7 @@
 ## Social Media
 
 - [Twitter @token_curated](https://twitter.com/token_curated)
-- [@Curation-Markets](https://gitter.im/Curation-Markets/Lobby)
+- [Gitter @Curation-Markets](https://gitter.im/Curation-Markets/Lobby)
 - [Medium @tokencuratedregistry](https://medium.com/@tokencuratedregistry)
 
 # Contributing
