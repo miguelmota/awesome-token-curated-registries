@@ -17,6 +17,7 @@
 ## Introduction
 
 - [Token-Curated Registries 1.0 (Whitepaper)](https://docs.google.com/document/d/1BWWC__-Kmso9b7yCI_R7ysoGFIT9D_sfjH3axQsmB6E/edit)
+- [Token-Curated Registries 1.0](https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7)
 - [Token Curated Registries 1.1, 2.0 TCRs](https://medium.com/@ilovebagels/token-curated-registries-1-1-2-0-tcrs-new-theory-and-dev-updates-34c9f079f33d)
 - [A Closer Look at TCR 1.1 and the µ Equation](https://medium.com/@eamunoz.me/a-closer-look-at-tcr-1-1-and-the-%C2%B5-equation-7eafad6e882e)
 - [What is a Token Curated Registry?](https://medium.com/@tokencuratedregistry/a-simple-overview-of-token-curated-registries-84e2b7b19a06)
@@ -71,6 +72,8 @@
 - [FOAM: Token Curated Registries for Geographic Points of Interest](https://blog.foam.space/foam-token-curated-registries-for-geographic-points-of-interest-60d3c043f183)
 - [TCRs for Research(er) Funding](https://medium.com/open-science-network/tcrs-for-research-er-funding-afdc67fd167e)
 - [Token Curated Registries in Butterfly Economy](https://medium.com/unframework/token-curated-registries-in-butterfly-economy-583b114a25c8)
+- [An Analysis of Token Curated Registries](https://medium.com/coinmonks/an-analysis-on-token-curated-registries-455183a069e3)
+- [Graded Token-Curated Decisions with Up-/Downvoting — Designing Cryptoeconomic Ranking and Reputation Systems](https://medium.com/coinmonks/graded-token-curated-decisions-with-up-downvoting-designing-cryptoeconomic-ranking-and-2ce7c000bb51)
 
 ## Social Media
 
