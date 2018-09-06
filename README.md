@@ -101,6 +101,7 @@
 ## Miscellaneous
 
 - [Kernel Governance: TCR research](https://github.com/zeppelinos/labs/issues/36)
+- [Token Curated Registries: Features & Tradeoffs](https://multicoin.capital/wp-content/uploads/2018/09/TCRs_-Features-and-Tradeoffs-2.pdf)
 
 ## Social Media
 
