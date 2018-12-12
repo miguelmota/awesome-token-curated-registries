@@ -5,6 +5,7 @@
 # Contents
 
 - [Introduction](#introduction)
+- [Live](#live)
 - [Implementations](#implementations)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
@@ -25,6 +26,15 @@
 - [What is a Token Curated Registry?](https://medium.com/@tokencuratedregistry/a-simple-overview-of-token-curated-registries-84e2b7b19a06)
 - [TCR (Token Curated Registry) (wiki)](http://tokenengineering.net/tcr)
 - [Introduction to Token Curated Registries](https://medium.com/@maxbronstein/introduction-to-token-curated-registries-e2699f2270cd)
+
+## Live
+
+- [adChain](https://publisher.adchain.com/)
+- [FOAM](https://map.foam.space/)
+- [Crypto Against Humanity](http://www.cryptoagainsthumanity.io/)
+- [Doges on Trial](https://dogesontrial.dog/)
+- [MedX](https://tokenregistry.medxprotocol.com/)
+- [Sapien](https://beta.sapien.network/)
 
 ## Implementations
 
