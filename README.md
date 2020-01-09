@@ -35,6 +35,7 @@
 - [Doges on Trial](https://dogesontrial.dog/)
 - [MedX](https://tokenregistry.medxprotocol.com/)
 - [Sapien](https://beta.sapien.network/)
+- [Cyber](https://github.com/cybercongress): using TCR to rank and index content in web3
 
 ## Implementations
 
